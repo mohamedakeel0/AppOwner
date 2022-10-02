@@ -1,0 +1,12 @@
+import 'package:foodapp/shared/network/remot/local/cache_helper.dart';
+
+class AppConstants{
+  static const int idrestaurants=1;
+  static const int idhotels=2;
+  static const int idmuseums=3;
+  static const int idpharmacies=4;
+  static const int idMosque=5;
+  static const int idattraction=6;
+
+
+}
